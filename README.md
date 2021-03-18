@@ -1,8 +1,8 @@
 # WebsiteBanHangOnlineQuanAo
 ## Danh sách thành viên
-   +Lê Thị Kiều Oanh - 18DH110153
-   +Nguyễn Ngô Hoàng Long - 18DH110286
-   +Lưu Nhựt Nam - 18DH110744
+   + Lê Thị Kiều Oanh - 18DH110153
+   + Nguyễn Ngô Hoàng Long - 18DH110286
+   + Lưu Nhựt Nam - 18DH110744
 ### Mô Tả Đề Tài: 
   + Tạo ra ứng dụng đáp ứng nhu cầu giảng dạy của Giảng Viên và học tập của Sinh Viên.
   + Đồ án bán hàng online quần áo của nhóm chúng em được áp dụng những kiến thức từ môn lập trình Web và môn Công nghệ phần mềm để triển khai đồ án này.
