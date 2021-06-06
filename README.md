@@ -5,7 +5,7 @@
    + Lưu Nhựt Nam - 18DH110744
 ### Mô Tả Đề Tài: 
   + Website gồm những chức năng chính: 
-     <li> Chức năng tìm kiếm sẽ giúp khách hàng dễ dàng tìm được sản phẩm, dịch vụ mà mình đang cần một cách nhanh nhất.
+     <li> Chức năng tìm kiếm sẽ giúp khách hàng dễ dàng tìm được sản phẩm, mà mình đang cần một cách nhanh nhất.
      <li> Chức năng giỏ hàng sẽ giúp khách hàng xem được những sản phẩm đã đặt mua, khách hàng có thể tiến hành đặt mua hoặc hủy đơn hàng
-     <li> Chức năng cung cấp thông tin: cung cấp các thông tin cần thiết cho khách hàng như là sản phẩm (Hình ảnh, giá cả, Size, ...)
+     <li> Chức năng cung cấp thông tin: cung cấp các thông tin cần thiết cho khách hàng như là sản phẩm (Hình ảnh, giá, ...)
      <li> Chức năng đăng nhập/đăng ký
